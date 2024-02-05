@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/planks0"
+
+	$surfaceprop wood
+
+	$detail "detail/detailaa2"
+	$detailscale 5
+
+
+}

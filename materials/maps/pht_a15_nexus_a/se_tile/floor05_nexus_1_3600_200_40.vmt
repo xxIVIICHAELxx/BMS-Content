@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_TILE/FLOOR05_NEXUS_1.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a15_nexus_a/c3600_200_40"
+	}
+}

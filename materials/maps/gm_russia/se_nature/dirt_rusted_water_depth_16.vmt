@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/se_nature/dirt_rusted_water.vmt"
+	"insert"
+	{
+		"$waterdepth"		"16"
+	}
+}

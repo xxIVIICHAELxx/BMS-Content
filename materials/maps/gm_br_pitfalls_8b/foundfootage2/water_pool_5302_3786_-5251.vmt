@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/FOUNDFOOTAGE2/WATER_POOL.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c5302_3786_-5251"
+		"Proxies"
+		{
+		}
+	}
+}

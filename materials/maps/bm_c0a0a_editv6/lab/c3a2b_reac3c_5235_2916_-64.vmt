@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/LAB/C3A2B_REAC3C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c5235_2916_-64"
+	}
+}

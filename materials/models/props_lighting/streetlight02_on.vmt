@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+	$basetexture models\props_lighting\streetlight02
+	$selfillum 1
+}

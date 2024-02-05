@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_pavedconcrete"
+	"$bumpmap" "foundfootage/br_pavedconcrete_nrm"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$surfaceprop" concrete
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "glass/combineglass001a"
+	"$model" 1
+	"$surfaceprop" "glass"
+	"$translucent" 1
+}

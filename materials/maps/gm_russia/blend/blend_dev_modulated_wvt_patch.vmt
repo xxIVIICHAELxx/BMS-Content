@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"dev\dev_measuregeneric01"
+	"$blendmasktransform"		"center .5 .5 scale 2 2 rotate 0 translate 0 0"
+	"$surfaceprop"		"default"
+	"$basetexture2transform"		"center .5 .5 scale 2 2 rotate 0 translate 0 0"
+}

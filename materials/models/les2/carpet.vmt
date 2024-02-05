@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/carpet"
+
+	$detail "models/les2/dt_carpet1"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SNOW/PASSCAR/INT_WOOD_4.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c4663_-6967_114"
+	}
+}

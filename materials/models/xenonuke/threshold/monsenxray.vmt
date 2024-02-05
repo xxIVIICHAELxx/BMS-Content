@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/monsenxray"
+	"$selfillum" 1
+	"$selfillummask" "models/xenonuke/threshold/monsenxrayillum"
+}

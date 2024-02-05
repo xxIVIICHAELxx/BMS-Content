@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "maps/decal/rustdecal03a_lfw"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"%keywords" "Insurgency"
+}

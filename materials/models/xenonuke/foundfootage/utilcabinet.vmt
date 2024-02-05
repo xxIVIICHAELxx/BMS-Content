@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage/utilcabinet"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/foundfootage/utilcabinet_envmap"
+}

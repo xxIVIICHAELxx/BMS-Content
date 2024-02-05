@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_GLASS/GLASS01CULL_ENV.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c4368_-5488_112"
+	}
+}

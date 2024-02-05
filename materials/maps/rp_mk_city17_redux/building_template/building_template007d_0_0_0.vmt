@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TEMPLATE007D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mk_city17_redux/c0_0_0"
+	}
+}

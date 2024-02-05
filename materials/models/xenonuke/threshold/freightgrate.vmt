@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Metal/metalgrate013a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metalgrate"
+	"%keywords" "airexchange,c17industrial,combine,wasteland"
+	"$nocull" 1
+	"$nodecal" 1
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.35"
+}
+

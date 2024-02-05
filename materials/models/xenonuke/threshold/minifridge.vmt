@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/minifridge"
+	"$color2" "[2 2 2]"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/minifridgeenvmap"
+	"$envmapsaturation" .01
+	"$envmapcontrast" .5
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c208_3504_104"
+		"Proxies"
+		{
+		}
+	}
+}

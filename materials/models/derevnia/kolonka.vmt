@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/kolonka"
+
+	$phong 1
+	$phongexponenttexture "models/derevnia/kolonka_r"
+	$phongfresnelranges "[0.29 0.72 1]"
+	$phongboost 1.65
+	$phongalbedoboost 4.12
+	$basemapalphaphongmask 1
+}

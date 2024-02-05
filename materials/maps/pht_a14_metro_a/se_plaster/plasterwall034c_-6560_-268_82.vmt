@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_PLASTER/PLASTERWALL034C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a14_metro_a/c-6560_-268_82"
+	}
+}

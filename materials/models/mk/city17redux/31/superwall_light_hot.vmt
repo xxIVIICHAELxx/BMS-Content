@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+
+	"$basetexture" "wall/superwall_light_hot"
+	"$model" 1
+	"$surfaceprop" "plaster"
+	
+}

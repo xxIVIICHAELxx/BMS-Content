@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/stol3"
+	$bumpmap "models/les2/stol3_n"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.21 0.21 0.21]"
+}

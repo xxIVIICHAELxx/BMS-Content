@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/powercable"
+	"$bumpmap" "models/xenonuke/threshold/powercablenrm"
+}

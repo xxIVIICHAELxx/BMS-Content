@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/frameblack"
+	$color2 "[2.85 2.45 2.85]"
+}

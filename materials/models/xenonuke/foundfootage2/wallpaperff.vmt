@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage/BR_Wallpaperff"
+	"$basetexturetransform" "center -.2 .5 scale .9 .9 rotate 0 translate 0 0"
+	$color2 "[1.25 1.25 1.52]"
+	"$bumpmap" "pitfalls/walls/BR_Wallpaper0_nrm"
+}

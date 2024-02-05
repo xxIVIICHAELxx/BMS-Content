@@ -1,0 +1,13 @@
+UnlitGeneric
+{
+	$basetexture "boreas/effects/skybox_fog"
+	$color "[0.8 0.9 1.0]"
+	$translucent 1
+	$decal 1
+	$nofog 1
+	
+	UnlitGeneric_hdr_dx9
+	{
+		$color "[0.52 0.6 0.65]"
+	}
+}

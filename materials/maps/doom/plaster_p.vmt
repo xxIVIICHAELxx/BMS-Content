@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "maps/doom/Plaster_P"
+	$bumpmap "maps/doom/Plaster_normal"
+}

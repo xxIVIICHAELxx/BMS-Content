@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/walls/BR_BluePlaster"
+	"$bumpmap" "pitfalls/walls/BR_Plaster_nrm"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/infovideo/strangepile"
+	"$surfaceprop" "Dirt"
+	$color2 "[2 2 2]"
+}

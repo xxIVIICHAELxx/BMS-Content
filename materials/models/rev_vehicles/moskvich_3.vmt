@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rev_vehicles/moskvich_3"
+	"$surfaceprop" "solidmetal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[.25 .25 .25]"
+
+
+ 	"vertexlitgeneric_HDR_dx9"
+ 	{
+  		"$envmaptint" "[.25 .25 .25]"
+ 	}
+
+
+	"vertexlitgeneric_DX9"
+ 	{
+  		"$envmaptint" "[.25 .25 .25]"
+ 	}
+}

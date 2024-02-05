@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage/garagecanyon_decals"
+	"$alphatest" 1
+	"$detailscale" 1
+	"$detail" "models/xenonuke/foundfootage/garagecanyon_decalsillum"
+	"$detailblendmode" 5
+}

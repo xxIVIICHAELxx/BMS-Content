@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "async/ceilingspeaker"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .18
+}

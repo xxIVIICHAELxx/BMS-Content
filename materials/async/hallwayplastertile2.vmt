@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "async/hallwayplastertile2"
+	"$bumpmap" "async/hallwayplastertile2_nrm"
+}

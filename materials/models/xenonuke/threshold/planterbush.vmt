@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/planterbush"
+	"$nocull" 1
+	"$alphatest" 1
+	"$treesway" 1
+}

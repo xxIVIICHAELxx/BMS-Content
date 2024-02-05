@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/concretedebris1a"
+	"$surfaceprop" "concrete"
+	"$bumpmap"     "concrete/concretedebris1a_normal"
+	
+	"$detail" "detail/gravel_detail_01"
+	"$detailscale" "3.5"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+	"%keywords" "oldcity,darkskies"
+}

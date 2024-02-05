@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "stone/stonewall017b"
+	"$surfaceprop" "concrete"	"$model" 1
+}

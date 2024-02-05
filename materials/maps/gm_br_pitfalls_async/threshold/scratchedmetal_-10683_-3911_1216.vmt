@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/THRESHOLD/SCRATCHEDMETAL.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c-10683_-3911_1216"
+	}
+}

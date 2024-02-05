@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/domus/varenie"
+	$bumpmap "models/domus/varenie_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.72 0.72 0.72]"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmapselfillum
+	"$basetexture" "ff_effects/rotlichtstreifen"
+	"$model" 1
+	"$surfaceprop" "glass"
+}

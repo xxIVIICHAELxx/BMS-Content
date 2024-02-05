@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/controlroom_base"
+	"$color2" "[.88 .88 .65]"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/hol"
+	$bumpmap "models/les2/hol_norm"
+}

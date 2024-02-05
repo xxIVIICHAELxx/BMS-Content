@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/organicgrowths"
+	"$nocull" 1
+	"$alphatest" 1
+	"$alphatestreference" .6
+}

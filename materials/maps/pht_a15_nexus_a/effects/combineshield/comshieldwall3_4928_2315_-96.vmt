@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COMBINESHIELD/COMSHIELDWALL3.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a15_nexus_a/c4928_2315_-96"
+		"Proxies"
+		{
+		}
+	}
+}

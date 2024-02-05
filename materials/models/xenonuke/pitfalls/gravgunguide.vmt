@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/pitfalls/gravgunguide"
+	"$nodecal" 1
+}

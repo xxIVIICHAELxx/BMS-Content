@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ASYNC/MARBLEFLOOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c-14924_-830_1696"
+	}
+}

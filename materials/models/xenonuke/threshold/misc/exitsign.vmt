@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/misc/exitsign"
+	"$selfillum" 1
+	"$selfillummask" "models/xenonuke/threshold/misc/exitsignillum"
+
+}

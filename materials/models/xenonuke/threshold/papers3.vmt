@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/papers3"
+	"$alphatest" 1
+}

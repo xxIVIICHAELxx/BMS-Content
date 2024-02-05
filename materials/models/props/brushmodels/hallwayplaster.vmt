@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage/br_hallwayplaster"
+	"$bumpmap" "foundfootage/br_hallwayplasternrm"
+}

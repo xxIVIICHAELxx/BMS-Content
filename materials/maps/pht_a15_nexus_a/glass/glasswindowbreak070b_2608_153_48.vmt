@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a15_nexus_a/c2608_153_48"
+		"Proxies"
+		{
+		}
+	}
+}

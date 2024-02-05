@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "maps/doom/Bricks048_1K_Color"
+	$bumpmap "maps/doom/Bricks048_1K_NormalGL"
+	$surfaceprop Brick
+}

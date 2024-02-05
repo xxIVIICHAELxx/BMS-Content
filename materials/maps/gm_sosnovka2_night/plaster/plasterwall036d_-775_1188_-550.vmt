@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL036D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_sosnovka2_night/c-775_1188_-550"
+	}
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage/redobject"
+	"$color2" "[1 .5 .5]"
+}

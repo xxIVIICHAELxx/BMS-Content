@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/brevno"
+	$bumpmap "models/derevnia/brevno_normal"
+
+	$detail "detail/detailaa2"
+	$detailscale 0.75
+}

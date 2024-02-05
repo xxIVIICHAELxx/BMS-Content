@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/lampbase"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/foundfootage2/lampbaseenvmap"
+	"$selfillum" 1
+	"$selfillummask" "models/xenonuke/foundfootage2/lampbaseillum"
+}

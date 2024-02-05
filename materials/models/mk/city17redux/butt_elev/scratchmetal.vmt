@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "smug/scratchmetal"
+	"$surfaceprop" "concrete"
+
+	"$model" 1
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\xenonuke\threshold\projector"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\xenonuke\threshold\projector_ref"
+	"$selfillum" "1"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar/br_smoothplaster"
+	//"$bumpmap" "archivetar/br_smoothplasternrm"
+	"$surfaceprop" "Concrete"
+	$color "[1.7 1.55 1.4]"
+}

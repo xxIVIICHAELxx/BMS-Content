@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/stori_pr"
+
+	$translucent 1
+	$nocull 1
+}

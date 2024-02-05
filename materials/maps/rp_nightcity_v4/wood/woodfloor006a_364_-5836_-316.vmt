@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODFLOOR006A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_nightcity_v4/c364_-5836_-316"
+	}
+}

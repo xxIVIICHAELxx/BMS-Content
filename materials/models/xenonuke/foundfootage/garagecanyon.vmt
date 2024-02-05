@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage/br_garageconcrete2"
+	"$basetexturetransform" "center .5 .5 scale .4 .2 rotate 0 translate -1.2 .1"
+	
+}

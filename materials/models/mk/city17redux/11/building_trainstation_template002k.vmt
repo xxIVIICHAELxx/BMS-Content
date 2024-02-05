@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "building_template/building_trainstation_template002k"	"$model" 1
+	"$surfaceprop" "concrete"
+}

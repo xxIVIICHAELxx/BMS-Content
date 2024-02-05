@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "maps/domus/SidingOut"
+	$bumpmap "maps/domus/SidingOut_normal"
+	$surfaceprop wood
+}

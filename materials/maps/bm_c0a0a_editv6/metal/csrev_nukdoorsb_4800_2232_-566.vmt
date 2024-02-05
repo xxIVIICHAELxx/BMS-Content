@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CSREV_NUKDOORSB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c4800_2232_-566"
+	}
+}

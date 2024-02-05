@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SAND/NOTRANS/REKLAMA_KAZ2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a14_metro_a/c13421_-9628_-60"
+	}
+}

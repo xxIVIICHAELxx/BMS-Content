@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture Concrete/concretewall011d
+	$surfaceprop concrete
+	$detail detail\concrete_detail_05	
+	$detailscale 5.5
+	$detailblendfactor .3
+	$detailblendmode 0
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage/electricalbox"
+	"$bumpmap" "models/xenonuke/foundfootage/electricalboxnrm"
+}

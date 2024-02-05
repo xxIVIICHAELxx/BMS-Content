@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "threshold/outpost_concreteblocks"
+	"$bumpmap" "threshold/outpost_concreteblocks_nrm"
+	"$surfaceprop" "Concrete_Block"
+}

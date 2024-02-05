@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ENVIRONMENT MAPS/PIPEMETAL001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_russia/c0_0_0"
+	}
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/lustra"
+
+$nocull 1
+}

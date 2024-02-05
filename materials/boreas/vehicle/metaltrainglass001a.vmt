@@ -1,0 +1,7 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "vehicle/metaltrainglass001a"
+	$surfaceprop "glass"
+	$translucent 1
+}

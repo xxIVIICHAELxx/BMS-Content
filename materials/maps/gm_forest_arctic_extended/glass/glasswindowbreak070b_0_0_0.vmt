@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_forest_arctic_extended/c0_0_0"
+		"Proxies"
+		{
+		}
+	}
+}

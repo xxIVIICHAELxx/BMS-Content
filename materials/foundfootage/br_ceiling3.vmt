@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_ceiling"
+	$color "[2.2 2.2 3]"
+	"$bumpmap" "pitfalls/ground/br_ceiling_nrm"
+	"$surfaceprop" "ceiling_tile"
+}

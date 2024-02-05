@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/xenonuke/threshold/watercooler_base"
+	$bumpmap "models/xenonuke/threshold/watercooler_base_n"
+}

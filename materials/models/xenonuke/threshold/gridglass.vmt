@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "threshold/gridglass"
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "threshold/gridglassenvmap"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+	"$nodecal" 1
+}

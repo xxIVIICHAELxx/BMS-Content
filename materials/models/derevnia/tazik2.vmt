@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/tazik2"
+$nocull 1
+
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_foliage/vines_001"
+//älä laita bumpmappia, se sotkee valaistuksen
+
+
+	"$alphatest" 1
+	$allowalphatocoverage	1
+	"$nocull" 1
+	$model 1
+$FlashlightNoLambert 1
+}

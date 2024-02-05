@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/keypadflash"
+	"$selfillum" 1
+	"$selfillummask" "models/xenonuke/threshold/keypadillum"
+"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 30.00
+		}
+}
+
+}

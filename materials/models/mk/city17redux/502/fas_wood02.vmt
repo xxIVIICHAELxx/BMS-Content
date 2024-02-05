@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "maps/common/genericfas_wood02"
+	"$normalmap" "maps/common/genericfas_wood02_normal"
+	"$surfaceprop" "wood_solid"
+}

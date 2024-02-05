@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/negra"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.55 0.55 0.55]"
+}

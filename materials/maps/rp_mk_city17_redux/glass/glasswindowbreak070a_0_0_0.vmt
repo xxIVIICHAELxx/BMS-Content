@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mk_city17_redux/c0_0_0"
+		"$crackmaterial"		"maps/rp_mk_city17_redux/glass/glasswindowbreak070b_0_0_0"
+	}
+}

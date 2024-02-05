@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/genericelevator"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/genericelevatorenvmap"
+	"$detailscale" 1
+	"$detail" "models/xenonuke/threshold/genericelevatorillum"
+	"$detailblendmode" 5
+	"$detailblendfactor" .9
+
+}

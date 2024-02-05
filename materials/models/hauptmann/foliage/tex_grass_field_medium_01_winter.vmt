@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/Hauptmann/Foliage/tex_grass_field_medium_01_winter"
+"$alphatest" "1"
+"$alphatestreference" .5
+"$allowalphatocoverage" 1
+"$halflambert" "1"
+"$nocull" 1
+}

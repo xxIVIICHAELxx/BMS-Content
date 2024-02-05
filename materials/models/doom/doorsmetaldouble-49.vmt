@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/doom/doorsmetaldouble-49"
+	$bumpmap "models/doom/doorsmetaldouble_n"
+}

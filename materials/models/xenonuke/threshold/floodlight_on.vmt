@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/xenonuke/threshold\Floodlight_On"
+	"$selfillum" 1
+                "$selfillummask" "models/xenonuke/threshold/Floodlight_On_illum"
+}

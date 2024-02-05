@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_redsign_decal"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .18
+}

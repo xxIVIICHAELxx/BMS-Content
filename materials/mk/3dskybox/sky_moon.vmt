@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"sprites/sigil_moon"
+	"$translucent"	"1"
+	"$ignorez"		"1"
+	"$nodecal"		"1"
+	"$nofog"		"1"
+    	"$additive"	"1"
+}

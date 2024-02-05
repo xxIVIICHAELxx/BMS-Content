@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COMBINESHIELD/COMSHIELDWALL4.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c725_8906_135"
+		"Proxies"
+		{
+		}
+	}
+}

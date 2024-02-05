@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+
+	"$basetexture" "metal/metalcombinegrate001a"	"$model" 1
+	"$translucent" "1"
+}

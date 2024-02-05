@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "z-o-m-b-i-e/stalker/crete/crete_roof1"
+	"$bumpmap" "z-o-m-b-i-e/stalker/crete/crete_roof1_norm"
+	"$surfaceprop" "concrete"
+	 "$detail"             "maxofs2d/terrain_detail"
+	"$detailscale"        "0.04"
+	"$detailblendfactor"  "0.3"
+	"$detailblendmode"    "0"
+}
+	
+	

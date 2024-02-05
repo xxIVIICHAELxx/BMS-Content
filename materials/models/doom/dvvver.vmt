@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/doom/dvvver"
+
+
+	$detail "detail/detailaa"
+	$detailscale 5
+
+}

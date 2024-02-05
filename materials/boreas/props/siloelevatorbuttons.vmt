@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "boreas/props/siloelevatorbuttons"
+	$surfaceprop "metal"
+	$nodecal 1
+}

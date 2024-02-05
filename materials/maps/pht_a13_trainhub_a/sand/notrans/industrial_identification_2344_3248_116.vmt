@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SAND/NOTRANS/INDUSTRIAL_IDENTIFICATION.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c2344_3248_116"
+	}
+}

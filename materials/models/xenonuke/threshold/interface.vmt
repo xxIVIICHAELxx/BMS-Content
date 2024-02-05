@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/interface"
+	"$alphatest" 1
+
+	$alphatestreference	.45
+}

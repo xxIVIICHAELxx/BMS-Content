@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$basetexture"			"mk/city17redux/moon_blood_event"	
+	"$surfaceprop" 			"concrete"
+	"$translucent"	 "1"
+	"$nofog" 	"1"
+	"$ignorez" "1"
+}

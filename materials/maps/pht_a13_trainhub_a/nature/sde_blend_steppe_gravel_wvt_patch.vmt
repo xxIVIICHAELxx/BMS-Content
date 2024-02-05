@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/sde_gravel_01"
+	"$bumpmap"		"nature/sde_gravel_01_norm"
+	"$surfaceprop"		"gravel"
+	"%detailtype"		"redgrass_light"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage2/br_ceramictile"
+	"$bumpmap" "foundfootage2/br_ceramictile_nrm"
+	"$envmap" env_cubemap
+	"$normalmapenvmapmask" 1
+	"$surfaceprop" "Tile"
+	$color "[2 2 2]"
+}

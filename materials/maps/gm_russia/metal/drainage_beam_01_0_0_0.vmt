@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/DRAINAGE_BEAM_01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_russia/c0_0_0"
+	}
+}

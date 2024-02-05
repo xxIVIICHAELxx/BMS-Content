@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/domus/metal"
+
+
+	$envmap "env_cubemap"
+	$envmapmask "models/domus/glassus_r"
+	$envmaptint "[0.49 0.49 0.49]"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/bluesofafabric"
+		"$bumpmap" "models/xenonuke/threshold/bluesofafabricnrm"
+	"$surfaceprop" "dirt"
+		//$color2 "[.4 .4 .4]"
+}

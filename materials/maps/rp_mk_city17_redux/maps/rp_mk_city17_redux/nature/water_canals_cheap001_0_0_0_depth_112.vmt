@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_mk_city17_redux/nature/water_canals_cheap001_0_0_0.vmt"
+	"insert"
+	{
+		"$waterdepth"		"112"
+	}
+}

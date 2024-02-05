@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "maps/amenus/texturescom_wood_plankspainted_1k_a"
+	$bumpmap "maps/amenus/texturescom_wood_plankspainted_1k_albedo"
+	$surfaceprop Wood
+
+
+}

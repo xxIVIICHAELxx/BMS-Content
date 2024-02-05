@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FOUNDFOOTAGE2/BR_SWIMMINGPOOLTILES.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c5296_4011_-5318"
+	}
+}

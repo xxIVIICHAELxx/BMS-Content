@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/greensoup"
+	"$nocull" 1
+"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" ".01"
+			"texturescrollangle" "0"
+		}
+}
+
+}

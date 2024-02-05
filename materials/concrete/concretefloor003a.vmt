@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture 			Concrete/concretefloor003a
+	$bumpmap 				concrete/concretefloor003a_normal
+	$surfaceprop 			concrete
+	$envmap 				env_cubemap
+	$fresnelreflection 		0.2
+	$envmaptint				.2
+}

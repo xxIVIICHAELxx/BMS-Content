@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage2/driedbloodstain"
+	"$alphatest" 1
+	"$decal" 1
+	"$decalscale" .3
+}

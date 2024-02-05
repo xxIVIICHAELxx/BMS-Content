@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/FOREST_METAL_03C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c3568_-5648_112"
+	}
+}

@@ -1,0 +1,5 @@
+LightMappedGeneric
+{
+	"$basetexture"			"mk/city17redux/floor_mramor"	
+	"$surfaceprop" 			"concrete"
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture" "models/props_se/tunnel/tunnel_accessory"
+	"$detail" "detail\metal_paint_detail"
+	"$detailscale" "2.283"
+	"$detailblendfactor" 1.5
+	"$detailblendmode" "0"
+}

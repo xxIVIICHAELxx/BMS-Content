@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// original shader: worldadditivetransenvmapwithmaskedtexture
+	"$basetexture" "glass/glasswindow070c"
+	"$surfaceprop" "concrete"	"$model" 1
+}

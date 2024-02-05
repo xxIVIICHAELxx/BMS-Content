@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "maps/amenus/WoodS007_1K_Color"
+	$bumpmap "maps/amenus/WoodSiding007_1K_Normal"
+	$surfaceprop Wood
+
+	$envmap "maps/amenus/WoodSiding007_1K_Roughness"
+	$envmaptint "[0.04 0.04 0.04]"
+}

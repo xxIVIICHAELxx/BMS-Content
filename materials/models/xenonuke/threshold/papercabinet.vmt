@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/papercabinet"
+	"$bumpmap" "models/xenonuke/threshold/papercabinetnrm"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/papercabinetenvmap"
+}

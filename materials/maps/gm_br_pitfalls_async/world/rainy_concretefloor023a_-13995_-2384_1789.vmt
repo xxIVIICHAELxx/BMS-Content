@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WORLD/RAINY_CONCRETEFLOOR023A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c-13995_-2384_1789"
+	}
+}

@@ -1,0 +1,24 @@
+// $envmap removed to circumvent texinfo limits
+ShatteredGlass
+{
+	$basetexture "glass/glasswindowbreak070b"
+	$detail "glass/glasswindowbreak070b"
+	$surfaceprop "glass"
+	$translucent 1
+	$basetexturetransform "scale .7 .7"
+	$detailscale 0.7
+	$unlitfactor 0.0
+	$nocull 1
+
+	ShatteredGlass_DX8
+	{
+		$unlitfactor 0.3
+	}
+
+	Proxies
+	{
+		BreakableSurface
+		{
+		}
+	}
+}

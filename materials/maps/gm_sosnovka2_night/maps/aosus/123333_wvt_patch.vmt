@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"maps/aosus/123333"
+	"$alphatest"		"1"
+	"$nocull"		"1"
+}

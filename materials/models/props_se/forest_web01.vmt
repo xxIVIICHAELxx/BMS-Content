@@ -1,0 +1,10 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture" "nature/forest_web01"
+	"$translucent" 1
+	"$alphatestreference" "0.5"
+	"$nocull" 1
+	"$nodecal" 1
+	"$flashlightnolambert" "1"
+}
+

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/amogugu/krushka"
+	
+		$envmap "env_cubemap"
+	$envmaptint "[0.3 0.3 0.3]"
+}

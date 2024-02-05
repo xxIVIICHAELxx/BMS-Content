@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/gm_br_pitfalls_8b/foundfootage2/water_abyss_6373_5168_-5056.vmt"
+	"insert"
+	{
+		"$waterdepth"		"192"
+	}
+}

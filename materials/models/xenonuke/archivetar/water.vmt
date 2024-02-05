@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/archivetar/water"
+	"$nocull" 1
+	"$translucent" 1
+"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "1"
+			"texturescrollangle" "90.00"
+		}
+}
+}

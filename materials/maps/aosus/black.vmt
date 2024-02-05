@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "maps/aosus/black"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.61 0.61 0.61]"
+}

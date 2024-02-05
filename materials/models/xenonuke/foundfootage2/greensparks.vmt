@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/greensparks"
+	"$nocull" 1
+	"$translucent" 1
+"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" "5"
+			"texturescrollangle" "0.00"
+		}
+}
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage2/br_ceilingscaffold"
+	"$surfaceprop" "Wood_Solid"
+	$color2 "[.56 .56 .6]"
+}

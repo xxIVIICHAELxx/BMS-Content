@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/autopsytable"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/autopsytableenvmap"
+	"$color2" "[.4 .4 .4]"
+}

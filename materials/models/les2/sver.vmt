@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "models/les2/sver"
+
+	$translucent 1
+}

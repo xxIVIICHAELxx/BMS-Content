@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL076A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a15_nexus_a/c3336_152_40"
+	}
+}

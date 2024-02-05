@@ -1,0 +1,14 @@
+WorldVertexTransition
+{
+	$basetexture "maps/aosus/brickreclaimed2_albedo"
+
+	$surfaceprop Brick
+
+	$basetexture2 "maps/aosus/Wall_BrickOld22_albedo"
+
+	$surfaceprop2 Brick
+
+"$seamless_scale" "-0.00390625"
+
+
+}

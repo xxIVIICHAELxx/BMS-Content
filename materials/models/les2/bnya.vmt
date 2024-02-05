@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/bnya"
+
+	$detail "detail/detailaa"
+	$detailscale 8
+	$detailblendfactor 0.69
+
+}

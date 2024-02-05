@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/POUREDCONCRETEWALL03A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/zm_z_dvor/c-290_-555_-519"
+	}
+}

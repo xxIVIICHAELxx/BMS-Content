@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "maps/amenus/TexturesCom_Wood_SidingOutdoor2_2x2_512_albedo"
+	
+	$surfaceprop wood
+
+
+
+
+}

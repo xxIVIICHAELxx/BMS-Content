@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_plastervanilla"
+	"$bumpmap" "pitfalls/walls/br_plaster_nrm"
+}

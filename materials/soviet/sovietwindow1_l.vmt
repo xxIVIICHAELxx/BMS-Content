@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "soviet/sovietwindow1_l"
+	"$Selfillum" 1
+	"$surfaceprop" "glass"
+	"$decal" "1"
+}

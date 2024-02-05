@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+
+{
+	$basetexture 	"models\props\lake_edge2"
+	$bumpmap		"models\props\lake_edge2_nrm"
+	
+	$alphatest		1
+	$surfaceprop ice
+}

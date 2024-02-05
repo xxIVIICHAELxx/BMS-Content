@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETE_FLOOR_TNNLFLR6B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c3518_4116_-64"
+	}
+}

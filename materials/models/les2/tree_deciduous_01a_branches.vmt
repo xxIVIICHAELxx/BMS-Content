@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/tree_deciduous_01a_branches"
+
+	$alphatest 1
+	$nocull 1
+
+	$allowalphatocoverage 1
+}

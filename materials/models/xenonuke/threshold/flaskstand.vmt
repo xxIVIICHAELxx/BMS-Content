@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/flaskstand"
+	"$bumpmap" "models/xenonuke/threshold/flaskstandnrm"
+}

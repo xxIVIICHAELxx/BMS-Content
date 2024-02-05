@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_floulightsingle"
+	"$surfaceprop" "Glass"
+}

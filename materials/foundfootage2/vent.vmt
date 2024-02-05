@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage2/vent"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .12
+}

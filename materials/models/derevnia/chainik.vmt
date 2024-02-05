@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/chainik"
+
+	$envmap "env_cubemap"
+	$envmapmask "models/derevnia/chainik_r"
+	$envmaptint "[0.15 0.15 0.15]"
+}

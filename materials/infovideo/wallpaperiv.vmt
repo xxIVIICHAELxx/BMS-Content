@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "infovideo/wallpaperiv"
+	"$bumpmap" "pitfalls/walls/BR_Wallpaper0_nrm"
+	$color "[1.4 1.5 1.6]"
+}

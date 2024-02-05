@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS_FROM_STALKER/CONCRETE_BLOCK001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/zm_z_dvor/c-118_-10_-458"
+	}
+}

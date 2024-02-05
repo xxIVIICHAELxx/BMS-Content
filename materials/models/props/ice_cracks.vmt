@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture	models/props/ice_cracks
+	$translucent	1
+	$surfaceprop	ice
+	$nocull			1
+}

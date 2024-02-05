@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/stul"
+	$bumpmap "models/les2/stul_n"
+
+	$detail "detail/detailaa"
+	$detailscale 8
+	$detailblendfactor 0.69
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.20 0.20 0.20]"
+}

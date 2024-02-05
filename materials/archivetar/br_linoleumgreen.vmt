@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar/br_linoleumgreen"
+	"$bumpmap" "foundfootage/br_hallwayplasternrm"
+	$color "[.5 .5 .4]"
+}

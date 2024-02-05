@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/joke/sodafigure"
+	"$alphatest" 1
+}

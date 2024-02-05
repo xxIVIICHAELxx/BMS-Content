@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "models/les2/brevna_glow"
+	$translucent 1
+
+}

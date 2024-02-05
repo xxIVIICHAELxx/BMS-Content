@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_CONCRETE/PLASTERWALLPAPER005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c-112_-448_-192"
+	}
+}

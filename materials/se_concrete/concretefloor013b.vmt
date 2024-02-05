@@ -1,0 +1,31 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "se_concrete/concretefloor013b"
+	"$surfaceprop" "concrete"
+	
+"$detail" "detail\beton"
+	"$detailscale" "1.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+	
+	"$bumpmap" "concrete/concretefloor013b_normal"
+	"$envmap" "env_cubemap"
+	"%keywords" "wasteland"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+	//"$envmaptint" "[ .5 .5 .5]"
+	"$fresnelreflection" .3
+
+	"LightmappedGeneric_HDR_DX9"
+	{
+
+		"$envmaptint" "[ .05 .05 .05]"
+	}
+
+	"LightmappedGeneric_DX9"
+	{
+
+		"$envmaptint" "[ .05 .05 .05]"
+	}
+}

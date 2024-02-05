@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "se_concrete/gravel_coal"
+	"$bumpmap" "se_concrete/gravel_coal_norm"
+	"$surfaceprop" "Gravel"
+}

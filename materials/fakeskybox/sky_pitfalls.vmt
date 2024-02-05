@@ -1,0 +1,6 @@
+"WindowImposter"
+{
+	"$envmap" "fakeskybox/sky_pitfalls"
+	"$nofog" 1
+	%keywords Fakeskybox
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_carpetgreyer"
+	"$basetexturetransform" "center .3 .14 scale 1.6 1.6 rotate 0 translate 0 0"
+	"$bumpmap" "pitfalls/ground/br_carpet_nrm"
+}

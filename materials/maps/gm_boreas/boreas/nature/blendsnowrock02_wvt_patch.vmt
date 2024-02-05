@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"boreas/nature/rockwall01"
+	"$bumpmap"		"boreas/nature/rockwall01_normal"
+	"$seamless_scale"		"0.001000"
+	"$color"		"[0.8 0.75 0.75]"
+	"$surfaceprop"		"sand"
+	"%detailtype"		"bushes"
+}

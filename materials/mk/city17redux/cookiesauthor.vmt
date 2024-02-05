@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$basetexture"			"mk/city17redux/CookiesAuthor"	
+	"$surfaceprop" 			"concrete"
+	"$nofog" 	"1"
+}

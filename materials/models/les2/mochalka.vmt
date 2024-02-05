@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/mochalka"
+
+	$detail "models/les2/dt_carpet1"
+	$detailscale 2
+}

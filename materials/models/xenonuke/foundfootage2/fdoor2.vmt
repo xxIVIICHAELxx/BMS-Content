@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/fdoor"
+	$color2 "[1.6 1.6 1.3]"
+ 	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 90 translate 0 0"
+	"$surfaceprop" "Wood_Solid"
+}

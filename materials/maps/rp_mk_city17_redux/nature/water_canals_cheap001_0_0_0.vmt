@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CHEAP001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mk_city17_redux/c0_0_0"
+		"Proxies"
+		{
+		}
+	}
+}

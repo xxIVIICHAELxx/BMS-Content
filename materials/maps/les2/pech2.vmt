@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/pech2"
+	$bumpmap "maps/les2/pech2_n"
+	$surfaceprop Brick
+}

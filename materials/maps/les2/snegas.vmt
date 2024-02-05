@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/snegas"
+	$bumpmap "maps/les2/snegas_n"
+	$surfaceprop Snow
+
+	$detail "maps/les2/deta22"
+	$detailscale 10
+
+	$color "[0.55 0.55 0.55]"
+
+	%detailtype forestsus
+}

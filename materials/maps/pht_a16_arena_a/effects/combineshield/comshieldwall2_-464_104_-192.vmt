@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COMBINESHIELD/COMSHIELDWALL2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c-464_104_-192"
+		"Proxies"
+		{
+		}
+	}
+}

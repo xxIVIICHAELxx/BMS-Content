@@ -1,0 +1,12 @@
+WorldVertexTransition
+{
+	$basetexture	nature/snow1
+	$surfaceprop	snow
+	//$bumpmap		nature/snow1_nrm
+
+	$basetexture2	nature/dirt1
+	$surfaceprop2	dirt
+	$bumpmap2		nature/dirt1_nrm
+	
+	$blendmodulatetexture nature/snowdirt1_blend
+}

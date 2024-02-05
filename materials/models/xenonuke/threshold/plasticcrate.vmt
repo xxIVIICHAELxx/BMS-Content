@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/plasticcrate"
+	"$bumpmap" "models/xenonuke/threshold/plasticcratenrm"
+}

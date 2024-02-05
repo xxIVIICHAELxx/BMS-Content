@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/metalpipe"
+	"$bumpmap" "models/xenonuke/threshold/metalpipe_nrm"
+	$color2 "[1.9 1.9 1.9]"
+	"$phong" 1
+	"$phongexponent" "41"
+	"$phongboost" "50"
+	"$phongalbedotint" "1"
+	"$phongtint" "[.21 .21 .2]"
+	"$phongfresnelranges"	"[3.1 14 .01]"
+}

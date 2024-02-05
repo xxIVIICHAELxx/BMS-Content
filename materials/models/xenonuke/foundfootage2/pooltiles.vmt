@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage2/br_swimmingpooltiles"
+	"$bumpmap" "foundfootage2/br_swimmingpooltiles_nrm"
+
+	"$surfaceprop" "Tile"
+}

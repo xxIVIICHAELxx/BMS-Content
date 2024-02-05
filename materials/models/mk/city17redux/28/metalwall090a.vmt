@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalwall090a"
+	"$surfaceprop"  "metal"
+	"$model" 1
+}

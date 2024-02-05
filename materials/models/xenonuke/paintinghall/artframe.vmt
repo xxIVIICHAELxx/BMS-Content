@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/paintinghall/artframe"
+	"$bumpmap" "models/xenonuke/paintinghall/artframenrm"
+	$color2 "[.7 .9 1]"
+}

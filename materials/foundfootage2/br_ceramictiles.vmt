@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage2/br_ceramictile"
+	"$bumpmap" "foundfootage2/br_ceramictile_nrm"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "Tile"
+	"$normalmapenvmapmask" 1
+}

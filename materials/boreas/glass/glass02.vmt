@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "glass/glasswindowbreak070a"
+	$color "[4 4 4]"
+	$surfaceprop "glass"
+	$translucent 1
+}

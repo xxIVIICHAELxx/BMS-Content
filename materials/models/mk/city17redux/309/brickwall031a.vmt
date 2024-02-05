@@ -1,0 +1,4 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "brick/brickwall031a"	"$surfaceprop" "concrete"	"$model" 1
+}

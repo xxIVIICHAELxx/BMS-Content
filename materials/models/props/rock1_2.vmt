@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture	models/props/rock1_2
+	$bumpmap		models/props/rock1_nrm
+	$surfaceprop	concrete
+	
+	$phong			1
+
+	$phongexponent		0		
+	$phongboost		0
+	$phongfresnelranges	"[0 0 0]"
+
+	$rimlight               1
+	$rimlightexponent       5
+	$rimlightboost          0.5
+}

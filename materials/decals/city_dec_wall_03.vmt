@@ -1,0 +1,14 @@
+//"DecalModulate"
+//{
+//    "$basetexture" "decals/city_dec_stones_01"
+//    "$decalscale" 0.25
+//}
+
+"LightmappedGeneric"
+{
+	"$basetexture" "Decals/city_dec_wall_03"
+	"$decal" 1
+  	"$decalscale" 0.25
+   	"$translucent" 1
+	"%keywords" "city"
+}

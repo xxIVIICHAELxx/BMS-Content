@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PITFALLS/GROUND/BR_CEILING.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c-4021_-1697_1216"
+	}
+}

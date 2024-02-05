@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/misc/clydenotebook"
+	"$nocull" 1
+}

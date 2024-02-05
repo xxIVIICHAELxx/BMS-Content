@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_carpetstairs"
+	"$bumpmap" "pitfalls/ground/br_carpet_nrm"
+	"$surfaceprop" carpet
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/branch06"
+
+	$alphatest 1
+	$alphatestreference 0.3
+	$nocull 1
+
+	$allowalphatocoverage 1
+}

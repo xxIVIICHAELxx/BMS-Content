@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR012A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fatkid_gymnasium/c0_0_0"
+	}
+}

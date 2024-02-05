@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+       
+{
+        "$basetexture" "maps/metal/metalfence012"
+        "$alphatest" 1
+	"$alphatestreference"	".22"
+	"$nocull"	1
+	"$surfaceprop" "concrete"
+
+	"$model" 1
+}

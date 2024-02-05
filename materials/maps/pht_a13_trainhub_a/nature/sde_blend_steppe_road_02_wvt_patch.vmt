@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/sde_concrete_road_01"
+	"$bumpmap"		"nature/sde_concrete_road_01_norm"
+	"$surfaceprop"		"concrete"
+}

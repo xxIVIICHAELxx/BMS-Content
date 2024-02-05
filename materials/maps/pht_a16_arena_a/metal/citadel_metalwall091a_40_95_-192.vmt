@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL091A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c40_95_-192"
+	}
+}

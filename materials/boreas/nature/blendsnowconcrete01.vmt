@@ -1,0 +1,15 @@
+WorldVertexTransition
+{
+	$basetexture "concrete/concretewall036a"
+	$bumpmap "dev/flat_normal"
+	
+	$basetexture2 "nature/snowfloor002a"
+	$bumpmap2 "boreas/nature/snowfloor01_normal"
+	
+	$seamless_scale 0.001
+	
+	$color "[0.8 0.75 0.75]"
+	
+	$surfaceprop "sand"
+	$blendmodulatetexture "boreas/effects/blend01"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FF_WALLS/FF_WALL039_OV.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mk_city17_redux/c0_0_0"
+	}
+}

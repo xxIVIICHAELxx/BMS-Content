@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "async/glassdoors"
+	"$decal" 1
+	"$decalscale" .2
+}

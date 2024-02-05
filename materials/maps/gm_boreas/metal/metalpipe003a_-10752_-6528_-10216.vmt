@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreas/c-10752_-6528_-10216"
+	}
+}

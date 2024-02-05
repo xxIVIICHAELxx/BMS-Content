@@ -1,0 +1,16 @@
+UnlitGeneric
+{
+	$basetexture "models/amogugu/noise2"
+Proxies
+{
+	Animatedtexture
+	{
+		animatedtexturevar $basetexture
+		animatedtextureframenumvar $frame
+		animatedtextureframerate 30
+	}
+    }
+}
+
+
+	

@@ -1,0 +1,39 @@
+"Water"
+{
+	"%compilewater" 1
+	"$abovewater" 1
+
+	"$envmap" "env_cubemap"	
+	"$refracttexture" "_rt_WaterRefraction"
+
+	"$refractamount" ".2"
+
+	"$scale" "[1 1]"
+
+	"$surfaceprop" "water"
+	
+	"$bottommaterial" "nature/water_riverbed01_beneath"
+	
+	
+	"$normalmap" "nature\ice_lake_nrm"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" ".2"
+	"$reflecttint" "{255 255 255}"
+	"$reflectsaturation" "[0 0 1]"
+
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	//"$fogcolor" "{30 45 45}"
+	//"$fogstart" "0"
+	//"$fogend" "100"
+
+	"$fogcolor" "{20 50 64}"
+	//"$fogcolor" "{80 200 255}"
+	//"$fogcolor" "{7 16 18}"
+	"$fogstart" 1.00
+	"$fogend" 32
+
+
+}

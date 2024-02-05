@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_linoleum"
+
+	"$bumpmap" "foundfootage/br_hallwayplasternrm"
+	//"$alpha"             0.9
+	"$surfaceprop"        "Tile"
+}

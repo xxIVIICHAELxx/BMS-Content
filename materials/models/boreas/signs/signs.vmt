@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/boreas/signs/signs"
+	
+	$phong 1
+	$basemapalphaphongmask 1
+	$phongexponent 20
+	$phongboost 2
+	$phongfresnelranges "[0.5 1 2]"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/car03"
+	"$nocull" 1
+}

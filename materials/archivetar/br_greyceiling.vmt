@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar/br_greyceiling"
+	"$bumpmap" "archivetar/br_greyceilingnrm"
+}

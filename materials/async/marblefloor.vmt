@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "async/marblefloor"
+	"$bumpmap" "async/marblefloornrm"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "async/marblefloornenvmap"
+	"$surfaceprop" "Tile"
+}

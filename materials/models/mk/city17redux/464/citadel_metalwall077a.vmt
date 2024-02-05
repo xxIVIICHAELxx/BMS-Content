@@ -1,0 +1,6 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalwall077a"
+	"$surfaceprop" "concrete"	"$model" 1
+}

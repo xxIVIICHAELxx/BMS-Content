@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"_1russia/grasswithered00"
+	"%detailtype"		"urban_grass_overgrown"
+	"$surfaceprop"		"dirt"
+	"%tooltexture"		"_1russia/blend"
+	"%keywords"		"russia"
+}

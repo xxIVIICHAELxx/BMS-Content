@@ -1,0 +1,6 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "props/mailboxwood01a"
+	$surfaceprop "wood"
+}

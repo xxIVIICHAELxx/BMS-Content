@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODWALL023A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c4663_-6967_114"
+	}
+}

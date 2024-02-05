@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/brushedmetal"
+	$color2 "[5.2 5.2 5.2]"
+	"$bumpmap" "models/xenonuke/foundfootage2/brushedmetal_nrm"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/foundfootage2/sofaleg"
+	"$envmapcontrast" .1
+	"$envmapsaturation" 1
+	"$nocull" 1
+}

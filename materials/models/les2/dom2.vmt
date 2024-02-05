@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/dom"
+	$bumpmap "models/les2/dom_n"
+
+	$detail "models/les2/deta3"
+	$detailscale 16
+}

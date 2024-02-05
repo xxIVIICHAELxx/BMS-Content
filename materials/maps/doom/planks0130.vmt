@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "maps/doom/Planks0130"
+	$bumpmap "maps/doom/Planks010_1K_NormalDX"
+	$surfaceprop Wood
+
+
+	$detail "detail/detailaa2"
+	$detailscale 3
+}
+

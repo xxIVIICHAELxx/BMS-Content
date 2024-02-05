@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+	"$basetexture"			"mk/city17redux/asphalt"
+	"$basetexture2" 		"mk/city17redux/asphalt-moss"
+
+	"$bumpmap" "mk/city17redux/asphalt_n"
+	"$bumpmap2" "mk/city17redux/asphalt_n"
+
+	"$surfaceprop" 			"concrete"
+	"$surfaceprop2" 		"concrete"
+
+	"$blendmodulatetexture" 	"mk/city17redux/blendmodulate_002"	
+
+	"$ssbump" 			"1"
+}

@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "maps/lies/PlanksOld2_albedo"
+	$bumpmap "maps/lies/PlanksOld2_normal"
+	$surfaceprop Wood
+	$detail "detail/detailaa2"
+	$detailscale 4
+
+}

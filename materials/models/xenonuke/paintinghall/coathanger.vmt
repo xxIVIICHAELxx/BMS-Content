@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/paintinghall/coathanger"
+	"$bumpmap" "models/xenonuke/paintinghall/coathangernrm"
+}

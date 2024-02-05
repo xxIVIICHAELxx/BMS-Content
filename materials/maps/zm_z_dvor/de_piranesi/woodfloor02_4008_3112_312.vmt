@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_PIRANESI/WOODFLOOR02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/zm_z_dvor/c4008_3112_312"
+	}
+}

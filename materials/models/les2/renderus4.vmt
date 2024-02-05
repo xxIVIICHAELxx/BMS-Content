@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/renderus4"
+
+	$detail "models/les2/dt_metal1"
+	$detailscale 10
+$detailblendfactor 0.76
+}

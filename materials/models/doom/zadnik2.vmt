@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "models/doom/zadnik2"
+        $translucent 1
+
+
+}

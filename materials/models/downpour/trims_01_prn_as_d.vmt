@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\downpour/trims_01_prn_as_d"
+	"$bumpmap" "models\downpour/trims_01_prn_as_n"
+
+	"$phong" "1"	
+	"$phongexponent" "70"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[2 2 2]"
+}

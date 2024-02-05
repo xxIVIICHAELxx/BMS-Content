@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/RAPIDCORE_CONCRETE_LABWALL_A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c4640_3660_-890"
+	}
+}

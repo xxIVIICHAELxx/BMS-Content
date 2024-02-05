@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_carpethatched"
+	"$bumpmap" "pitfalls/ground/br_carpethatched_nrm"
+	"$surfaceprop" carpet
+}

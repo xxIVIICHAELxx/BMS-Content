@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture	models/props/cave_face
+	$bumpmap		models/props/cave_face_nrm
+	$surfaceprop	concrete
+	
+	$phong			1
+
+	$phongexponent		0		
+	$phongboost		0
+	$phongfresnelranges	"[0 0 0]"
+
+	$rimlight               1
+	$rimlightexponent       10
+	$rimlightboost          1
+}

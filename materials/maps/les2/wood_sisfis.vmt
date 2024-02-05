@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/wood_sisfis"
+	$bumpmap "maps/les2/wood_sisfis_n"
+	$surfaceprop Wood
+
+
+	$detail "detail/detailaa2"
+	$detailscale 5
+}

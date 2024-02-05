@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/Terrain/decal_asphalt_patched_9f"
+	"$translucent" 1
+	"$decal" 1
+	$vertexcolor 1
+	$vertexalpha 1
+		$decalscale 0.45
+	}

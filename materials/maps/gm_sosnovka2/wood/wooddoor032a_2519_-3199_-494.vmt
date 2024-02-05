@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODDOOR032A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_sosnovka2/c2519_-3199_-494"
+	}
+}

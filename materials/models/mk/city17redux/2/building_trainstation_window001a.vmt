@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "building_template/building_trainstation_window001a"	"$model" 1
+	"$surfaceprop" "glass"	"$translucent" 1
+}

@@ -1,0 +1,9 @@
+"Decalmodulate"
+{
+	//"$translucent" 1
+	"$basetexture" "Decals/flesh/blood2_Cyclop"
+	"$decal" 1
+	"$decalscale" "0.4"
+//	"$scale" "10.24"
+	//"$modelmaterial" "decals/flesh/bloodtinyModel"
+}

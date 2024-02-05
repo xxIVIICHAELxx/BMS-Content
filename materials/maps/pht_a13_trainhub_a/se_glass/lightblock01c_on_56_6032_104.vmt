@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_GLASS/LIGHTBLOCK01C_ON.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c56_6032_104"
+	}
+}

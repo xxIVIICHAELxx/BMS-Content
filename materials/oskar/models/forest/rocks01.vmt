@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Oskar/models/forest/rocks01"
+	"$surfaceprop" "stone"
+}

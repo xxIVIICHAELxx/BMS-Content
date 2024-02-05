@@ -1,0 +1,11 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "metal/metalpipe005a"
+	$bumpmap "metal/metalpipe005a_normal"
+	$surfaceprop "metal"
+	$detail "detail/metal_detail_01"
+	$detailscale 4.283
+	$detailblendfactor 0.65
+	$detailblendmode 0
+}

@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps_from_stalker/concrete_block001"
+	"$bumpmap" "maps_from_stalker/concrete_block001_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .25 .25 .25 ]"
+	"$surfaceprop" "Concrete"
+	"%keywords" "maps_from_stalker"
+}

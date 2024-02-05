@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/archivetar/cisternpipe"
+	"$envmap" env_cubemap
+	"$envmapmask" "models/xenonuke/archivetar/cisternpipe"
+	$envmapsaturation .2
+	$envmapcontrast .4
+}

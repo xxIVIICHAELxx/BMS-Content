@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "soviet/door_podezd"
+	"$translucent" 1
+	"$decal" "1"
+}

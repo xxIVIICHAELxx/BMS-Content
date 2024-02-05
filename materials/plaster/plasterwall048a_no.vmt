@@ -1,0 +1,27 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Plaster/plasterwall048a"
+	"$bumpmap" "Plaster/plasterwall048a_normal"
+	"$surfaceprop" "plaster"
+	"%keywords" "c17skyscraper"
+	"$texscale"	4
+	"$bumpscale" 4
+	"$baseTextureOffset" "[0.5 0.5]"
+	"Proxies"
+     	{
+            "TextureTransform"
+            {
+		   				"translateVar" "$baseTextureOffset"
+		   				"scaleVar"     "$texscale"
+              "resultVar"    "$baseTextureTransform"
+
+            }
+            "TextureTransform"
+            {
+			   			"translateVar" "$bumpTextureOffset"
+			   			"scaleVar"     "$bumpscale"
+	       			"resultVar"    "$bumptransform"
+            }
+     	}
+
+}

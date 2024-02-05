@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_TILE/FLOOR05A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c504_4168_104"
+	}
+}

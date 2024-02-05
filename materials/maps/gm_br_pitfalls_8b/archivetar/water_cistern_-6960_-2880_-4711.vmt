@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/ARCHIVETAR/WATER_CISTERN.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c-6960_-2880_-4711"
+		"Proxies"
+		{
+		}
+	}
+}

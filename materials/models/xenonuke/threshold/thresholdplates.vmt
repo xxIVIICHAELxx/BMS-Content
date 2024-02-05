@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/threshold_panels"
+	//"$bumpmap" "models/xenonuke/threshold/threshold_panels"
+	"$surfaceprop" "Metal"
+}

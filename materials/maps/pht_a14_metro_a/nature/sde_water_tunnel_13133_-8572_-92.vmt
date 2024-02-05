@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/SDE_WATER_TUNNEL.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a14_metro_a/c13133_-8572_-92"
+		"Proxies"
+		{
+		}
+	}
+}

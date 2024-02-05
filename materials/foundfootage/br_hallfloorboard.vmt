@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_hallfloorboard"
+	"$bumpmap" "foundfootage/br_hallfloorboardnrm"
+	"$surfaceprop" wood
+	$color "[ .875 .6 .405 ]"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/darkglass"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/darkglassenvmap"
+	"$translucent" 1
+}

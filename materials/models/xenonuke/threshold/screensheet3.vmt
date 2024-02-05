@@ -1,0 +1,26 @@
+
+"Unlittwotexture"
+
+{
+	"$basetexture" "models/xenonuke/threshold/screensheet3"
+	"$texture2" "Models/props_lab/security_noise"
+	"$selfillum" 1
+	"$model" 1
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" -.014
+			"texturescrollangle" 0
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" 10
+			"texturescrollangle" 70
+		}
+	}
+
+
+}

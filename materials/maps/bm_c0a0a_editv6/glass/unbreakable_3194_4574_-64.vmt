@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/UNBREAKABLE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c3194_4574_-64"
+	}
+}

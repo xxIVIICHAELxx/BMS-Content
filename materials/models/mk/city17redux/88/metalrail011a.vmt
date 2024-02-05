@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$basetexture "metal/metalrail011a"
+$surfaceprop metalgrate
+$translucent 1
+	"$model" 1
+}

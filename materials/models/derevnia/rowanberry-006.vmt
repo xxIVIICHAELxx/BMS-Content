@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/derevnia/rowanberry-006"
+	$bumpmap "models/derevnia/rowanberry_n"
+
+	$alphatest 1
+	$nocull 1
+}

@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "detail/detailsprites6"
+	"$nocull" 1
+	"$translucent" "1"
+	"$VertexColor" 1
+	"$VertexAlpha" 1
+	$allowalphatocoverage 1
+	"$receiveflashlight" "1"
+
+}

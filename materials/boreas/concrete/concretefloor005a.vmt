@@ -1,0 +1,14 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "Concrete/concretefloor005a"
+	$surfaceprop "concrete"
+	
+	$detail "detail\noise_detail_01"
+	$detailscale 7.345
+	$detailblendfactor 0.6
+	$detailblendmode 0
+	$bumpmap "concrete\concretefloor005a_normal"
+	$parallaxmap "concrete\concretefloor005a_height"
+	$parallaxmapscale 0.354
+}

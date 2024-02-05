@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/growths"
+	"$surfaceprop" "MudSlipperySlime"
+	"$nocull" 1
+	$color2 "[1.6 1.9 1.3]"
+}

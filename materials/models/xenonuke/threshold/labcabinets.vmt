@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/labcabinets"
+	"$bumpmap" "models/xenonuke/threshold/labcabinetsnrm"
+}

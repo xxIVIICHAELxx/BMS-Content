@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+	"$basetexture"	"de_train\train_brick_wall_trim"
+	"$surfaceprop" "concrete"
+
+	"$model" 1
+}

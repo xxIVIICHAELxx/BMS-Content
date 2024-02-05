@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "se_metal/metaldoorgate08"
+	"$surfaceprop" "Metal"
+	
+	"$detail" "detail\metal_detail_01"
+	"$detailscale" "8.0"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+}

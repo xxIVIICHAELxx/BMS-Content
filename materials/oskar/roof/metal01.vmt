@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Oskar/roof/metal01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "Oskar/roof/metal01_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.7 .7 .7]"
+	"$envmapcontrast" 1
+}
+

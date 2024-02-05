@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/boreas/skybox/trees_skybox"
+	
+	$alphatest 1
+	$allowalphatocoverage 1
+	$nocull 1
+	
+	$color2 "[0.9 0.9 0.9]"
+}

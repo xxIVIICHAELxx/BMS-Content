@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar\ceiling_01"
+	"$bumpmap" "archivetar\ceiling_01_nrm"
+	"$surfaceprop" "ceiling_tile"
+	//"$envmap" env_cubemap
+} 
+
+//Original Texture by TopHATTWaffle

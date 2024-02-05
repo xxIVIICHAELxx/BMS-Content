@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "boreas/metal/metalcrate002ab_yellow"
+	$surfaceprop "metalpanel"
+}

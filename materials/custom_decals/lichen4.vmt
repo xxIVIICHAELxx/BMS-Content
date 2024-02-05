@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+	$translucent 1
+	$basetexture custom_decals/lichen4
+	$decal 1
+	$decalscale 0.25
+//	$detail detail\concrete_detail_05	
+//	$detailscale 4.0
+//	$detailblendfactor .6
+//	$detailblendmode 0
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

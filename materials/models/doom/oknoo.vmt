@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/doom/oknoo"
+
+	$detail "detail/detailaa2"
+	$detailscale 3
+
+}

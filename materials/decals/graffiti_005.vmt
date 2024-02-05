@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "decals/graffiti_005"
+	"$decal" "1"
+	"$decalscale" 0.25
+	"$translucent" 1
+
+	"%keywords" "fotc"
+}

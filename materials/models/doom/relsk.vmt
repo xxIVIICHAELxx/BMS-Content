@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/doom/relsk"
+
+	$envmap "env_cubemap"
+	$envmapmask "models/doom/relsk_r"
+	$envmaptint "[0.30 0.30 0.30]"
+	$envmapcontrast 0.33
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "storefront_template/storefront_template001g"
+	"$surfaceprop" "concrete"	"$model" 1
+}

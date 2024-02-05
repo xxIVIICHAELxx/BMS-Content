@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "threshold/outpost_blastdoor"
+	"$surfaceprop" "MetalPanel"
+}

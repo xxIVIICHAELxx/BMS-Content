@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/Sonstiges/CombineSign2GROSS"
+	"$translucent" 1
+	"$decal" 1
+	$decalscale 0.0012
+	$vertexalpha 1
+}

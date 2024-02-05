@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"jahhur\clouds_cirrus_mask"
+	"$translucent"	"1"
+	
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" 	"$basetexturetransform"
+			"texturescrollrate" 	.01
+			"texturescrollangle" 	200
+		}
+	}
+}

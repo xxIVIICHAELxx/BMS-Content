@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage2/br_atriumceiling"
+	"$bumpmap" "pitfalls/ground/br_ceiling_nrm"
+	"$surfaceprop" "ceiling_tile"
+}

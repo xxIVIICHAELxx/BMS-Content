@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/doom/lodovoe41"
+
+	$alphatest 1
+
+	$allowalphatocoverage 1
+}

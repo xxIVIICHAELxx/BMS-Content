@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_manhole"
+	"$alphatest" 1
+"$decal" 1
+	"$decalscale" 0.25
+}

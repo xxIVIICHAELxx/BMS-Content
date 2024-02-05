@@ -1,0 +1,19 @@
+LightmappedGeneric
+{
+	$basetexture "nature/toxicslime002a"
+	$bumpmap "nature/slime_normal"
+	$envmap "engine/eye-reflection-cubemap-"
+	$envmaptint "[0.01 0.01 0.008]"
+	
+	$surfaceprop "glass"
+	
+	Proxies
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.02
+			"texturescrollangle" 40
+		}
+	}
+}

@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "maps/doom/dosoki2"
+	$bumpmap "maps/doom/dosoki1"
+	$surfaceprop Wood
+
+
+	$detail "detail/detailaa2"
+	$detailscale 5
+}

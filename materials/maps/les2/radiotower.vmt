@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/radiotower"
+
+	$alphatest 1
+
+	$allowalphatocoverage 1
+}

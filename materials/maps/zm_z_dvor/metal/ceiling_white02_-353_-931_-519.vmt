@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CEILING_WHITE02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/zm_z_dvor/c-353_-931_-519"
+	}
+}

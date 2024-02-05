@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalrail013a"
+	"%compilepassbullets" 1	"$surfaceprop" "concrete"	"$model" 1
+	"$alphatest" 1
+}
+

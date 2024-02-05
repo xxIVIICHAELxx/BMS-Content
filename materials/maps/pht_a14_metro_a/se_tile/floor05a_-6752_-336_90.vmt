@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_TILE/FLOOR05A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a14_metro_a/c-6752_-336_90"
+	}
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_RIVERBED03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_frozen_lake/c0_0_96"
+		"Proxies"
+		{
+		}
+	}
+}

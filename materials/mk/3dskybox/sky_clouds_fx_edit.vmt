@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"env/fx/fx_clouds_a"
+	"$translucent"	"1"
+	
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" 	"$basetexturetransform"
+			"texturescrollrate" 	.035
+			"texturescrollangle" 	90.00
+		}
+	}
+}

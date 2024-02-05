@@ -1,0 +1,8 @@
+lightmappedgeneric
+{
+$baseTexture "se_metal/metal_ext_06"
+$surfaceprop metal
+$ssbump 1
+$bumpmap "se_metal/metal_ext_06_height-ssbump"
+"%keywords" l4d2
+}

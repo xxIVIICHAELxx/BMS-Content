@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FOUNDFOOTAGE/BR_CEILING3.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c-6960_-2880_-4711"
+	}
+}

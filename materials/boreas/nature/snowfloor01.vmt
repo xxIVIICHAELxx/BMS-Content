@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "nature/snowfloor002a"
+	$bumpmap "boreas/nature/snowfloor01_normal"
+	
+	$color "[0.8 0.75 0.75]"
+	$surfaceprop "sand"
+}

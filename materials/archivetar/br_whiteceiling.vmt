@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar/br_whiteceiling"
+	"$bumpmap" "pitfalls/ground/br_ceiling_nrm"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "pitfalls/ground/br_ceiling_spec"
+	"$surfaceprop" "ceiling_tile"
+}

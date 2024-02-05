@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "async/marbletiles"
+	"$bumpmap" "async/marbletilesnrm"
+	"$surfaceprop" "Brick"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/fumehood2"
+	"$bumpmap" "models/xenonuke/threshold/fumehood2nrm"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/fumehood2envmap"
+}

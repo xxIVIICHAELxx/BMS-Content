@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/reportdoor"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/reportdoorenvmap"
+}

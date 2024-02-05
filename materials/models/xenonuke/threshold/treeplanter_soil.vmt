@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/treeplanter_soil"
+	"$nodecal" 1
+}

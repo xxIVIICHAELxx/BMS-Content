@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/Z-O-M-B-I-E/STALKER/CRETE/CRETE_WALLS_02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_chernomaysk/c0_0_0"
+	}
+}

@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture "models/xenonuke/threshold/snack_machine"
+
+	$selfillum 1
+	$selfillummask "models/xenonuke/threshold/snack_machine_lum"
+	$selfillumtint "[4 4.5 3.5]"
+
+	$envmap env_cubemap
+	$envmapmask "models/xenonuke/threshold/snack_machine_ref"
+	$envmaptint "[.6 .6 .6]"
+
+$nocull 1
+}

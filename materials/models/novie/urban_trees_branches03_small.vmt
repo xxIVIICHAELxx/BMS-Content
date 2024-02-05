@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "models/novie/urban_trees_branches03"
+
+	$alphatest 1
+	$nocull 1
+
+	$disablecsmlookup 1
+
+	%keywords "l4d2"
+
+	$flashlightnolambert 1
+	$model 1
+	%compilepassbullets 1
+}

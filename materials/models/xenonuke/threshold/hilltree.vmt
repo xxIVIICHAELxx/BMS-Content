@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/hilltree"
+	"$alphatest" 1
+	"$nocull" 1
+	$color2 "[7 7 9]"
+}

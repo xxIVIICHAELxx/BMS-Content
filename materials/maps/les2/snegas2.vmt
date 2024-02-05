@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/snow"
+	$surfaceprop Snow
+
+	$detail "maps/les2/deta22"
+	$detailscale 5
+
+	$color "[0.66 0.66 0.66]"
+}

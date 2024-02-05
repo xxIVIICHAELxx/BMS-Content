@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_interiors/Radiator01a"
+	"$surfaceprop" "metal"
+	$color2 "[6 6 6]"
+}

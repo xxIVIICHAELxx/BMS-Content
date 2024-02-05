@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SAND/NOTRANS/METRO_SIGN_ATLAS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a14_metro_a/c-6973_120_72"
+	}
+}

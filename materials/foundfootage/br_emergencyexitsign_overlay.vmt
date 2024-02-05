@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_emergencyexitsign_overlay2"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.49
+}

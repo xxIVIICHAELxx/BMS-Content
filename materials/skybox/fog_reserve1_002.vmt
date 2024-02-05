@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox\fog_reserve1_002"
+	"$translucent" 1
+}

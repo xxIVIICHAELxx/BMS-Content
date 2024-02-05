@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/pitfalls/goldmetal"
+	"$bumpmap" "models/xenonuke/pitfalls/goldmetal_nrm"
+	"$surfaceprop" metal
+
+	$envmap env_cubemap	
+
+	"$phong" 1
+	"$phongexponent" "6"
+	"$phongboost" "20"
+	"$phongalbedotint" "1"
+	"$phongtint" "[.4 .4 .1]"
+	"$phongfresnelranges"	"[1.5 6 15]"
+}

@@ -1,0 +1,11 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "my1/cretewall"
+	"$bumpmap" "my1/cretewall_normal"
+	"$surfaceprop" "concrete"
+                "$envmap" "env_cubemap"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_beton_det4"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stalker_res/mtl/mtl_garage_pryp_02"
+
+	//"$phong" "1"
+	//"$phongexponent" "10"
+	//"$phongboost" "0.3"	
+	//"$phongfresnelranges"	"[1 1 1]"
+      	"$bumpmap" "models/stalker_res/mtl/mtl_garage_02_normal"
+}

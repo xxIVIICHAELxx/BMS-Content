@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage2/damageplaster0115_2"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .18
+	$color "[.7 .7 .8]"
+}
+

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/POUREDCONCRETEWALL04A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_overpass_csgo/c-1211_-3012_311"
+	}
+}

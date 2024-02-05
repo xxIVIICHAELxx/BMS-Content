@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FOUNDFOOTAGE2/BR_CERAMICTILES.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c5302_3786_-5251"
+	}
+}

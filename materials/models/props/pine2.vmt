@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture	models/props/pine2
+	$bumpmap		models/props/pine2_nrm
+	$surfaceprop	wood
+	
+	$phong			1
+
+	$phongexponent		0		
+	$phongboost		0
+	$phongfresnelranges	"[0 0 0]"
+
+	$rimlight               1
+	$rimlightexponent       5
+	$rimlightboost          2	
+}

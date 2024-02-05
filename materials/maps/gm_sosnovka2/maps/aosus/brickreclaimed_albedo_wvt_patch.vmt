@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"maps/aosus/brickreclaimed_albedo"
+	"$bumpmap"		"maps/aosus/brickreclaimed_normal"
+	"$surfaceprop"		"Brick"
+	"$seamless_scale"		"0.003906"
+}

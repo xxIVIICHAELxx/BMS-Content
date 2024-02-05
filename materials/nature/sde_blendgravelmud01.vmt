@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "nature/forest_gravel_01"
+	"$baseTexture" "nature/mudfloor001b"
+	"$surfaceprop2" "dirt"
+	"$surfaceprop" "mud"
+		
+	"$blendmodulatetexture" "nature/blendtexture01"
+
+}

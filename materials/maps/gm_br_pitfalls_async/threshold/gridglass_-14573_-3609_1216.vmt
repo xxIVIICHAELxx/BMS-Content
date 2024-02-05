@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/THRESHOLD/GRIDGLASS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c-14573_-3609_1216"
+	}
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/stovegrate"
+	"$bumpmap" "models/xenonuke/foundfootage2/stovegrate_nrm"
+	"$envmap" "env_cubemap"
+	"$alphatest" 1
+	"$nodecal" 1
+}

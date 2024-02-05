@@ -1,0 +1,17 @@
+WorldVertexTransition
+{
+	$basetexture "metal/metalhull010b"
+	$bumpmap "dev/flat_normal"
+	
+	$basetexture2 "nature/snowfloor002a"
+	$bumpmap2 "boreas/nature/snowfloor01_normal"
+	
+	$seamless_scale 0.001
+	$blendmodulatetexture "boreas/effects/blend01"
+	
+	$color "[0.8 0.75 0.75]"
+	
+	$surfaceprop "sand"
+	
+	%detailtype "bushes"
+}

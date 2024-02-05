@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/AOSUS/BLACK.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_sosnovka2/c1680_-3629_-497"
+	}
+}

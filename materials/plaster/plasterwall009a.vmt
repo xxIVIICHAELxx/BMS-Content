@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	// Why you gotta give Ep2 materials the same name as HL2 materials, Valve?
+	$basetexture "plaster/plasterwall009a"
+	$surfaceprop "plaster"
+}

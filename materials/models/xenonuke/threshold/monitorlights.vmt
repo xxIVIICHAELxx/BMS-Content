@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/monitorlights"
+	"$selfillum" 1
+	"$selfillummask" "models/xenonuke/threshold/monitorlightsillum"
+	"$nodecal" 1
+}

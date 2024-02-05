@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/freightelevator2"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/threshold/freightelevator2_envmap"
+
+}

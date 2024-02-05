@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COM_SHIELD003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c48_352_-176"
+		"Proxies"
+		{
+		}
+	}
+}

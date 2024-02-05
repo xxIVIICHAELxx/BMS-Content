@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "maps/aosus/Wall_BrickOld2_albedo"
+	$bumpmap "maps/aosus/Wall_BrickOld2_normal"
+	$surfaceprop Brick
+}

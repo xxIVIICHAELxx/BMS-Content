@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/wb8"
+	"$bumpmap" "models/xenonuke/threshold/wb8nrm"
+}

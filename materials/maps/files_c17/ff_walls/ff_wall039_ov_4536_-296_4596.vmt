@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FF_WALLS/FF_WALL039_OV.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/files_c17/c4536_-296_4596"
+	}
+}

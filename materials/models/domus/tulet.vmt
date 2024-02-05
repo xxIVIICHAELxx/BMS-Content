@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/domus/tulet"
+
+
+	$envmap "env_cubemap"
+	$envmapmask "models/domus/tulet_r"
+	$envmaptint "[0.72 0.72 0.72]"
+}

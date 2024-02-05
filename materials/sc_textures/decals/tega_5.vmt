@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sc_textures/decals/tega_sc_5"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$translucent" 1
+}

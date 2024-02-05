@@ -1,0 +1,7 @@
+Refract
+{
+	$normalmap "nature/water_frame01_normal"
+	$refractamount 0.3
+	$model 1
+	$surfaceprop "ice"
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/skybox_mountains"
+	"$surfaceprop" "snow"
+	"$bumpmap" "models/props/skybox_mountains_nrm"
+	
+	
+}

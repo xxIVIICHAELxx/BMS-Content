@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mk\3dskybox\fake_mk_fog_bottom"
+	"$translucent" "1"
+}

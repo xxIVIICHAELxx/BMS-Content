@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/Dirty_rust_2/decal_wall"
+		"$translucent" 1
+	"$decal" 1
+	$vertexcolor 1
+	$vertexalpha 1
+	$decalscale 0.45
+
+}

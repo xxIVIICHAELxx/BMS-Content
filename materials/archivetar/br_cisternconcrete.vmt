@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar/br_cisternconcrete"
+	"$bumpmap" "archivetar/br_cisternconcrete_nrm"
+	"$surfaceprop" "concrete"
+}

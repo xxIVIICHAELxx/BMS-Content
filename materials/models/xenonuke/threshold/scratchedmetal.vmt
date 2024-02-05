@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "threshold/scratchedmetal"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "threshold/scratchedmetalenvmap"
+}

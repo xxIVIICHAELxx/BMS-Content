@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "infovideo/wornwoodfloor"
+	"$bumpmap" "infovideo/wornwoodfloornrm"
+	"$surfaceprop" "Wood_Plank"
+
+}

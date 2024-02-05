@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "threshold/threshold_wires"
+	"$surfaceprop" "Computer"
+}

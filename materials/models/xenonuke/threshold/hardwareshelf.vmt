@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/hardwareshelf"
+	"$bumpmap" "models/xenonuke/threshold/hardwareshelfnrm"
+	"$nocull" 1
+}

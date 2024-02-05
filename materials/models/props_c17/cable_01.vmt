@@ -1,0 +1,8 @@
+VertexlitGeneric
+{
+	// Original shader: VertexLitTexture
+	$basetexture "Models/props_c17/cable_01"
+	"$surfaceprop" "metal"
+	$detail detail\metal_detail_03
+	$detailscale 4.0
+}

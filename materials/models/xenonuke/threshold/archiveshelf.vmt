@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/archiveshelf"
+	"$bumpmap" "models/xenonuke/threshold/archiveshelfnrm"
+}

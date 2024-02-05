@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CRETE_WALL_C1A4B_W3A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c3696_3347_-29"
+	}
+}

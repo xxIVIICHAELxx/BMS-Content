@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/pechka"
+
+
+	$detail "detail/noise_detail_01"
+	$detailscale 20
+
+}

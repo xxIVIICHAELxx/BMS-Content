@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "maps/amenus/TexturesCom_Wood_LogSiding_512_albedo"
+	
+	$surfaceprop Wood
+
+
+}

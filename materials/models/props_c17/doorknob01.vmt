@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture Models/props_c17/doorknob01
+	$envmapmask Models/props_c17/doorknob01_mask
+	$envmap env_cubemap
+	$envmapsaturation 2.5
+	$envmapcontrast .1
+	$envmaptint "[2.75 1.325 1.1]"
+}
+
+
+

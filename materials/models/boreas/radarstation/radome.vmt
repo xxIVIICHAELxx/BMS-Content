@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "lights/white"
+	//$color2 "[0.6 0.6 0.6]"
+	$color2 "[0.75 0.75 0.75]"
+	
+	$detail "shadertest/detail"
+	$detailscale 1
+	$detailblendfactor 0.5
+	
+	$surfaceprop "rubber"
+	
+	VertexLitGeneric_hdr_dx9
+	{
+		$color2 "[0.6 0.6 0.6]"
+	}
+}

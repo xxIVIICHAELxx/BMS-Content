@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "foundfootage/greydoorframe"
+	"$surfaceprop" metal
+	"$nodecal" 1
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CSREV_CONCRETEFLOOR_03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c3264_5248_-64"
+	}
+}

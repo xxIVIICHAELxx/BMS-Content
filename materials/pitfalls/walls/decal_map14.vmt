@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/walls/decal_map14"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .1
+}

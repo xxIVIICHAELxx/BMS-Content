@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/SE_GLASS/GLASS01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a13_trainhub_a/c4200_-4352_112"
+		"$crackmaterial"		"maps/pht_a13_trainhub_a/glass/glasswindowbreak070b_4200_-4352_112"
+	}
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage2/sofafabric"
+	"$bumpmap" "models/xenonuke/foundfootage2/sofafabricnrm"
+	"$surfaceprop" "dirt"
+	$color2 "[.4 .4 .4]"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/CSREV_OFFICEWALL01A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c2942_2492_-308"
+	}
+}

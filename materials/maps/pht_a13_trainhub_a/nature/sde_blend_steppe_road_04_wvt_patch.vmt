@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/sde_concrete_road_04"
+	"$bumpmap"		"nature/sde_concrete_road_04_norm"
+	"$surfaceprop"		"antlionsand"
+	"%detailtype"		"redgrass_light"
+	"$detailscale"		"16.000000"
+	"$detailblendfactor"		"0.600000"
+	"$detailblendmode"		"0"
+}

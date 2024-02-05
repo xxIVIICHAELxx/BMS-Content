@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage/utilcabinet_details"
+	"$alphatest" 1
+	"$nocull" 1
+}

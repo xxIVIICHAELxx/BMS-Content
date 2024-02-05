@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/metalpipe"
+	"$bumpmap" "models/xenonuke/threshold/metalpipe_nrm"
+	$color2 "[.8 .8 .8]"
+}

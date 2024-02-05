@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "props\poa_vendingmachine\poa_vendingmachine"
+	"$surfaceprop" "metal"
+//	"$envmap" "env_cubemap"
+//	"$basealphaenvmapmask" 1
+//	"$envmaptint" "[ .5 .5 .5]"
+//	"$envmapcontrast" ".5"
+//	"$envmapsaturation" "[1 1 1]"
+	"$selfIllum"			1
+	
+    
+
+}
+
+

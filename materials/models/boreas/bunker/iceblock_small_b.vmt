@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/boreas/bunker/iceblock_small"
+	$translucent 1
+	$surfaceprop "ice"
+}

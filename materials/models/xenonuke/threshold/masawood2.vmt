@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/masawood2"
+	$color2 "[3.8 3.9 4.2]"
+}

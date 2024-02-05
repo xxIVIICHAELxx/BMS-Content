@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/pech1"
+	$bumpmap "models/les2/pech1_n"
+	$surfaceprop Brick
+}

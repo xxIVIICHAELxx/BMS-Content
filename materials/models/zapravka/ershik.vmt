@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/zapravka/ershik"
+
+$nocull 1
+}

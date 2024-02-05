@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$alphatest" 1
+	"$basetexture" "metal/metaltruss003a"
+	"$surfaceprop" "concrete"	"$model" 1
+}

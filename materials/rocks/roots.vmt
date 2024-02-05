@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "rocks/roots"
+//	"$bumpmap" "rocks/foliage_sheet_n"
+	"$model" "1"
+//	"$translucent" "1"
+	"$alphatest" "1"
+	"$AlphaTestReference" "0.5"
+	"$nocull" "1"
+}

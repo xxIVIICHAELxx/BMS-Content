@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/sde_steppe_04"
+	"$bumpmap"		"nature/sde_steppe_04_norm"
+	"$surfaceprop"		"grass"
+	"$detailscale"		"16.000000"
+	"$detailblendfactor"		"0.600000"
+	"$detailblendmode"		"0"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/LAB/LABDOOR00_OPEN.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c4382_2508_-64"
+	}
+}

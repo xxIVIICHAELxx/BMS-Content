@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/-0OUT_CRT2A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c3102_1644_-308"
+	}
+}

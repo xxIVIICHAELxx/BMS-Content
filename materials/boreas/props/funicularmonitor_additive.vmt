@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "boreas/props/funicularmonitor"
+	$color "[0.6 0.4 0.2]"
+	$surfaceprop "glass"
+	
+	$additive 1
+	$decal 1
+}

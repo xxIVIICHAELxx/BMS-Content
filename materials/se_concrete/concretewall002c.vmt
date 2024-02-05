@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "se_concrete/concretewall002c"
+	"$surfaceprop" "concrete"
+	
+	"$detail" "detail\beton"
+	"$detailscale" "1.0"
+	"$detailblendfactor" .6
+	"$detailblendmode" "0"
+}

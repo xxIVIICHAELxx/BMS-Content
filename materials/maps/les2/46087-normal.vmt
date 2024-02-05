@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/domus/glassus"
+	$bumpmap "maps/les2/4608-normal"
+
+	$translucent 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.50 0.50 0.50]"
+
+	$dudvmap "maps/les2/4608-norma2l"
+	$model 1
+}

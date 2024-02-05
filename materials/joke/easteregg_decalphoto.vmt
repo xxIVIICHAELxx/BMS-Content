@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "joke/easteregg_decalphoto"
+	"$alphatest" 1
+	"$decal" 1
+	"$decalscale" .08
+}

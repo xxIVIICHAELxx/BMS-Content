@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/props_lab/freightelevator_sheet"
+ "$detail" "FF_Detail/MED_detail2"
+ "$detailscale" 4	
+			
+}

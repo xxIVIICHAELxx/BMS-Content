@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NATURE/ICE_LAKE_REFLECTION.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_frozen_lake/c0_0_96"
+	}
+}

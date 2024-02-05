@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	$basetexture	models/props/snow_clouds
+	$bumpmap		models/props/snow_clouds_nrm
+	$translucent	1
+	$nocull			1
+	$surfaceprop	snow
+	"Proxies"
+	{
+			"TextureScroll"
+			{
+					"texturescrollvar" "$baseTextureTransform"
+					"texturescrollrate" "0.004"
+					"texturescrollangle" "0"
+			}
+	}
+	
+
+}

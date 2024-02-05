@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/domus/WaterPotM_Base_Color"
+	$envmap "env_cubemap"
+	$envmapmask "models/domus/WaterPotM_Roughness"
+	$envmaptint "[0.49 0.49 0.49]"
+
+
+
+
+}

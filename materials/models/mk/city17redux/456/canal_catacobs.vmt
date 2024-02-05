@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+	"$basetexture"			"mk/city17redux/canal_catacobs"	
+	"$surfaceprop" "concrete"
+
+	"$model" 1
+}

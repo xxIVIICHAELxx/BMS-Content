@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/LES2/INEY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_sosnovka2_night/c3413_-1355_-558"
+	}
+}

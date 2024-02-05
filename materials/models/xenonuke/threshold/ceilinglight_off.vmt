@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\xenonuke\threshold\ceilinglight"
+	//"$envmap" "env_cubemap"
+	//"$envmapmask" "models\xenonuke\threshold\ceilinglight_ref"
+
+}

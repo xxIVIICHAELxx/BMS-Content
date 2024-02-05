@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "man/decals/paper_plakat_12"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.15"
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_street2"
+	"$bumpmap" "pitfalls/ground/concretefloor037b_normal"
+	"$surfaceprop" "Concrete"
+}

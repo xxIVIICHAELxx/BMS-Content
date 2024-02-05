@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "decals/decalmetalspeaker002a"
+
+	"$surfaceprop" "concrete"	"$model" 1
+}

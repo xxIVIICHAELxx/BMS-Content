@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CUSTOM_GLASS/FOGGEDGLASS001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_russia/c0_0_0"
+	}
+}

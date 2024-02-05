@@ -1,0 +1,7 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "wood/woodstair002b"
+	$surfaceprop "wood"
+	$bumpmap "wood/woodstair002b_normal"
+}

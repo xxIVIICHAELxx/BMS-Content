@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+
+{
+	$basetexture "nature\ice_lake"
+	//$bumpmap "nature\ice_lake_nrm"
+	$translucent 1
+	$surfaceprop ice
+	//$envmap env_cubemap
+	//$normalmapalphaenvmapmask 1
+}

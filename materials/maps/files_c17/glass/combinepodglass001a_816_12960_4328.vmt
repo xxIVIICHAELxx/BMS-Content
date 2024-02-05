@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/COMBINEPODGLASS001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/files_c17/c816_12960_4328"
+	}
+}

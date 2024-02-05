@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"nature/grasswithered00"
+	"$surfaceprop"		"dirt"
+                "%detailtype"                           "urban_grass_overgrown"
+}

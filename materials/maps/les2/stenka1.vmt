@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "maps/les2/stenka1"
+
+
+	$detail "detail/detailaa"
+	$detailscale 5
+
+
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW070C_ENV.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a15_nexus_a/c2608_976_40"
+	}
+}

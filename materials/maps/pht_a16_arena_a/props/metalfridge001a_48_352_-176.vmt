@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/METALFRIDGE001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c48_352_-176"
+	}
+}

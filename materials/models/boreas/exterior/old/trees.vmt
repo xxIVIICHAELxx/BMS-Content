@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/boreas/exterior/foliage"
+	$surfaceprop "wood"
+	
+	$alphatest 1
+	$allowalphatocoverage 1
+	$nocull 1
+}

@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_pipes/PipeSet08d_128_001a"
+
+
+$bumpmap "effects/flat_normal"
+"$envmaptint" "[ .5  .5 .5 ]"
+
+//$halflambert 1
+$phong 1
+//$phongboost 1
+//$phongexponent 6
+$BASEMAPLUMINANCEPHONGMASK 1
+$phongfresnelranges "[3 8 60]"
+
+
+}

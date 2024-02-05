@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/Roots/Roots"
+	"$bumpmap" "models/Roots/Roots_normal"
+//	"$envmap" "env_cubemap"
+	"$surfaceprop" "wood"
+//	"$normalmapalphaenvmapmask" 1
+	
+//	"$envmapcontrast" 0.8
+//	"$envmapsaturation" 1
+//	"$envmaptint" "[1 1 1]"
+
+}

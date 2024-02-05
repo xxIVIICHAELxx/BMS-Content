@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/samovar1"
+	$bumpmap "models/les2/samovar_n"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.47 0.47 0.47]"
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COMBINESHIELD/COMSHIELDWALL2FADED.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c8_224_-192"
+		"Proxies"
+		{
+		}
+	}
+}

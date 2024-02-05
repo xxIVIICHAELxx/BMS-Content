@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/stol1"
+
+	$detail "detail/detailaa"
+	$detailscale 10
+
+
+}

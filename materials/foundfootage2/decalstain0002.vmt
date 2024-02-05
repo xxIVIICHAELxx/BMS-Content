@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "missingpersons/blackstain2_decal"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .5
+}

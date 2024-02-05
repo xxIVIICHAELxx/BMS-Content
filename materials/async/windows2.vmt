@@ -1,0 +1,10 @@
+"Unlitgeneric"
+{
+	"$basetexture" "async/windowsbright2"
+	"$color" "[1.7 1.2 .9]"
+	"$alphatest" 1
+	"$decalscale" .241
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "async/windows2envmap"
+"$decal" 1
+}

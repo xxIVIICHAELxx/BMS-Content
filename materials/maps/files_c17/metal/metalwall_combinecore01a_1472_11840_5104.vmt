@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL_COMBINECORE01A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/files_c17/c1472_11840_5104"
+	}
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "threshold/outpost_concreteblocks"
+	"$color" "[.25 .25 .25]"
+	"$bumpmap" "threshold/outpost_concreteblocks_nrm"
+	"$surfaceprop" "Concrete_Block"
+}

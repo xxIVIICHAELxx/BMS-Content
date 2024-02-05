@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/gm_br_pitfalls_8b/archivetar/water_cistern_-6960_-2880_-4711.vmt"
+	"insert"
+	{
+		"$waterdepth"		"48"
+	}
+}

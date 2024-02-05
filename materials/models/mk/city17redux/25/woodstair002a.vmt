@@ -1,0 +1,6 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "wood/woodstair002a"
+	"$surfaceprop" "wood"	"$model" 1
+}

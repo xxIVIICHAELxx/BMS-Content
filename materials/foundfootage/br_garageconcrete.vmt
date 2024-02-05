@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_garageconcrete2"
+	"$surfaceprop" "Concrete"
+	$color "[2 2 2]"
+}

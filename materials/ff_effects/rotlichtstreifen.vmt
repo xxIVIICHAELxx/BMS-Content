@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "FF_EFFECTS/Rotlichtstreifen"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+}

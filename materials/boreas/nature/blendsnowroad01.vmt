@@ -1,0 +1,10 @@
+WorldVertexTransition
+{
+	$basetexture "concrete/concretefloor037a"
+	$basetexture2 "nature/snowfloor002a"
+	
+	$color "[0.8 0.75 0.75]"
+	
+	$surfaceprop "sand"
+	$blendmodulatetexture "boreas/effects/blend01"
+}

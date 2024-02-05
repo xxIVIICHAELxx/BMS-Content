@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "props/signbillboard001a"
+	"$surfaceprop" "concrete"	"$alphatest" "1"	"$model" 1
+}

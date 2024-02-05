@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+ $baseTexture "models/props_foliage/onyxtree/broadleaf/almond/LARGE_tree1_dead"
+ $bumpmap "models/props_foliage/onyxtree/broadleaf/almond/LARGE_tree1_dead_NORMAL"
+ 
+ $alphatest 1
+ $nocull 1 
+ $DISABLECSMLOOKUP 1
+ 
+// $halflambert 1
+// $lightwarptexture "models/props_foliage/onyxtree/broadleaf/foliage_lightwarp"
+}

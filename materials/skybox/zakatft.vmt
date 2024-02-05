@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "skybox/zakatft"
+
+	$ignorez 1
+	$nofog 1
+}

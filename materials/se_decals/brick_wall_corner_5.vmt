@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "se_decals/brick_wall_corner_5"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+}

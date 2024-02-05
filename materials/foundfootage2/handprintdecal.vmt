@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage2/handprintdecal"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" .035
+}

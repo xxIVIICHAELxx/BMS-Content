@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "customsandcrete/custom_wood_1"
+		"$surfaceprop" "concrete"
+
+	"$model" 1
+}

@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/SE_GLASS/GLASS01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a15_nexus_a/c2782_1904_-168"
+		"$crackmaterial"		"maps/pht_a15_nexus_a/glass/glasswindowbreak070b_2782_1904_-168"
+	}
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmapalphablend
+	"$alphatest" 1
+	"$basetexture" "metal/metaltruss024a"
+	"$surfaceprop" "concrete"	"$model" 1
+}

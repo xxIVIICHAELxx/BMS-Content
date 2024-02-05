@@ -1,0 +1,8 @@
+LightmappedGeneric
+{	
+	$basetexture "metal/metaltruss010b"
+	$alphatest 1
+	$nocull 1
+	$surfaceprop "metal"
+	%compilepassbullets 1
+}

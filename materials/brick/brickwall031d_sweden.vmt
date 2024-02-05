@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Brick/brickwall031d"
+	"$surfaceprop" "brick"
+	"%keywords" "c17downtown"
+	"$texscale"	4
+	"$baseTextureOffset" "[0.5 0.5]"
+	"Proxies"
+     	{
+            "TextureTransform"
+            {
+		   "translateVar" "$baseTextureOffset"
+		   "scaleVar"     "$texscale"
+                   "resultVar"    "$baseTextureTransform"
+            }
+     	}
+     	  "$detail" "FF_Detail/sweden_detail"
+	"$detailscale" 8
+}

@@ -1,0 +1,18 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "nature/dirtfloor011a"
+	"$basetexture2" "nature/dirtfloor006a"
+
+	"$bumpmap" "mk/city17redux/asphalt_n"
+	"$bumpmap2" "mk/city17redux/asphalt_n"
+
+	"$surfaceprop" 			"dirt"
+	"$surfaceprop2" 		"dirt"
+
+	"$blendmodulatetexture" 	"mk/city17redux/blendmodulate_002"	
+
+	"%detailtype" "redgrass"
+
+	"$ssbump" 			"1"
+	"$seamless_scale" ".0047"
+}

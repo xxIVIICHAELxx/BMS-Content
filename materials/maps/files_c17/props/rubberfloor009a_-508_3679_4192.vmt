@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/RUBBERFLOOR009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/files_c17/c-508_3679_4192"
+	}
+}

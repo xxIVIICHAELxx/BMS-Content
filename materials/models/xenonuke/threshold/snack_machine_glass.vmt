@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$baseTexture "models/xenonuke/threshold/snack_machine_glass"
+$envmap env_cubemap
+$envmapmask "models/xenonuke/threshold/snack_machine_glass_ref"
+$envmaptint "[ .7 .7 .7 ]"
+$translucent 1
+}

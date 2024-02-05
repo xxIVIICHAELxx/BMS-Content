@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "archivetar/br_blacktiles"
+	"$bumpmap" "archivetar/br_blacktilesnrm"
+	"$surfaceprop" "tile"
+	$color "[5 5 5]"
+}

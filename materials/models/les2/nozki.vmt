@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/les2/nozki"
+
+	$detail "detail/detailaa"
+	$detailscale 5
+
+
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_METAL/IBEAM_ASSAULT.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a14_metro_a/c16132_-9516_676"
+	}
+}

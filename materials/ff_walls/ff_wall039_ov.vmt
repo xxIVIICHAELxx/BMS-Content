@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "FF_Walls/FF_Wall039"
+	"$bumpmap" "FF_Walls/FF_Wall039_normal"
+	"%keywords" "dod"
+	"$surfaceprop" "brick"
+ 	"$nodiffusebumplighting" 1
+ 	"$envmaptint" "[ .56 .67 .75 ]"
+ 	"$envmap" "env_cubemap"
+ 	"$normalmapalphaenvmapmask" 1
+ 	"$envmapcontrast" 1
+ 	"$envmapsaturation" 1
+ 	"$detail" "overlays/FF_macro07a"
+	"$detailscale" .5		
+}

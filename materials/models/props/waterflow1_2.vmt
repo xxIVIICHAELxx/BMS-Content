@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	$basetexture	models/props/waterflow
+	$surfaceprop	water
+	$translucent	1
+	
+	"Proxies"
+	{
+			"TextureScroll"
+			{
+					"texturescrollvar" "$baseTextureTransform"
+					"texturescrollrate" "0.5"
+					"texturescrollangle" "270"
+			}
+	}
+}

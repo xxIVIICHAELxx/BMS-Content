@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\downpour/wood_01_prn_as_d"
+	"$bumpmap" "models\downpour/wood_01_prn_as_n"
+}

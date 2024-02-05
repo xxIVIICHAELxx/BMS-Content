@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/suit_nbc_bodygreen"
+	"$bumpmap" "models/xenonuke/threshold/suit_nbc_body_nrm"
+	"$nocull" 1
+}

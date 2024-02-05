@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/LES2/GLASSWINAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_sosnovka2_night/c2180_-1636_-494"
+	}
+}

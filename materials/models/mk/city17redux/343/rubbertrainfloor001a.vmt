@@ -1,0 +1,6 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "vehicle/rubbertrainfloor001a"
+	"$surfaceprop" "concrete"	"$model" 1
+}

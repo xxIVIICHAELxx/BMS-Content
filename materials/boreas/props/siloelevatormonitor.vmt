@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "boreas/props/siloelevatormonitor"
+	$color "[0.6 0.4 0.2]"
+	$surfaceprop "glass"
+	$nodecal 1
+}

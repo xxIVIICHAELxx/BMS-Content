@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW037A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_sosnovka2_night/c3298_2911_-558"
+	}
+}

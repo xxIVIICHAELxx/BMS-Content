@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$vertexalpha 1
+	$vertexcolor 1
+	$basetexture decals/decalmetalgrate015a
+	$decal 1
+	$decalscale 0.25
+}

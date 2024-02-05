@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL072C_FIXED.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/files_c17/c-192_8952_3255"
+	}
+}

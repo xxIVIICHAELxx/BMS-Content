@@ -1,0 +1,7 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "tile/tilewall007e"
+	$surfaceprop "tile"
+	$bumpmap "tile/tilewall007e_normal"
+}

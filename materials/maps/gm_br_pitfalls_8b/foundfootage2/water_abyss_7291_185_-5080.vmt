@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/FOUNDFOOTAGE2/WATER_ABYSS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c7291_185_-5080"
+		"Proxies"
+		{
+		}
+	}
+}

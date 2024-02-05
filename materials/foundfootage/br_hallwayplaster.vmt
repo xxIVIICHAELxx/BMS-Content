@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "foundfootage/br_hallwayplaster"
+	"$bumpmap" "foundfootage/br_hallwayplasternrm"
+"$detail" "threshold/hallwayconcrete"
+	"$detailscale" .4
+	"$detailblendmode" 2
+	"$detailblendfactor" .5
+}

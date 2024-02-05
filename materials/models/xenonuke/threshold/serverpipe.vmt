@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/threshold/serverpipe"
+	"$bumpmap" "models/xenonuke/threshold/serverpipenrm"
+	"$envmap" env_cubemap
+	"$envmapmask" "models/xenonuke/threshold/serverpipeenvmap"
+"$phong" 1
+	"$phongexponent" "14"
+	"$phongboost" "4"
+	"$phongalbedotint" "1"
+	"$phongtint" "[.25 .21 .2]"
+	"$phongfresnelranges"	"[3.5 6 15]"
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "maps/doom/Wood_SidingOutdoor4"
+	$bumpmap "maps/doom/Wood_SidingOutdoor4_normal"
+	$surfaceprop Wood
+}

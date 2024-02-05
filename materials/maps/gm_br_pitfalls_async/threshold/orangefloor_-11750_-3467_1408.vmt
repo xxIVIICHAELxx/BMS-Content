@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/THRESHOLD/ORANGEFLOOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c-11750_-3467_1408"
+	}
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/scenery/furniture/sinka/sinkmetal"
+//	"$envmap" "env_cubemap"	//  "envmap/havbthrm"
+	"$envmapmask" "effects/ref_50"
+	"$envmap" "env_cubemap"	//  				"env_cubemap"
+	"$surfaceprop"				"metal"
+}

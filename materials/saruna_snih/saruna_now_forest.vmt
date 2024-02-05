@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "saruna_snih/leavesdead"
+	"$basetexture" "saruna_snih/sarunasnow"
+	"$surfaceprop" "snow"
+	"$surfaceprop2" "grass"
+	"$blendmodulatetexture" "saruna_snih/sarunamodulate"
+	//"%detailtype" "waldgras_revers_ultradicht"
+}

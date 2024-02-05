@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SE_TILE/FLOOR05_NEXUS_3.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pht_a16_arena_a/c56_-72_-192"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FOUNDFOOTAGE2/BR_ATRIUMCEILING.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_8b/c6565_1734_-5088"
+	}
+}

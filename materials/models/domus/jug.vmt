@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/domus/jug"
+
+
+
+	$envmap "env_cubemap"
+	$envmapmask "models/domus/jug_r"
+	$envmaptint "[0.49 0.49 0.49]"
+}

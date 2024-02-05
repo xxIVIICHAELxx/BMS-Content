@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "wood/v_woodwall01_a1"
+	"$surfaceprop" "wood"
+	"%keywords" "rnl"
+}

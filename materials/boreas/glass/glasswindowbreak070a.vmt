@@ -1,0 +1,10 @@
+// $envmap removed to circumvent texinfo limits
+LightmappedGeneric
+{
+	$basetexture "glass/glasswindowbreak070a"
+	$surfaceprop "glass"
+	$translucent 1
+	$multipass 1
+	$nocull 1
+	$crackmaterial "boreas/glass/glasswindowbreak070b"
+}

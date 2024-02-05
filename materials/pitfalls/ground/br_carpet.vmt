@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pitfalls/ground/br_carpet"
+             $color "[1.3 1.25 1.5]"
+	//$color "[1.8 1.9 1]"
+"$surfaceprop" carpet
+}

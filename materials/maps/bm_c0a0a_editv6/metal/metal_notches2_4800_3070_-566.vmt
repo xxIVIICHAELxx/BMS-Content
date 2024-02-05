@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METAL_NOTCHES2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bm_c0a0a_editv6/c4800_3070_-566"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/VEHICLE/METALTRAIN001E.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/files_c17/c1636_1976_5328"
+	}
+}

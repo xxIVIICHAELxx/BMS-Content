@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "tile\tilefloor_grungy_01b"
+	"$surfaceprop" "concrete"
+
+	"$model" 1
+}

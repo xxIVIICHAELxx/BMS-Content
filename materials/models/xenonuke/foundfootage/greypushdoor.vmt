@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/foundfootage/greypushdoor"
+	//"$basealphaenvmapmask" 1
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/foundfootage/greypushdoor_envmap"
+}

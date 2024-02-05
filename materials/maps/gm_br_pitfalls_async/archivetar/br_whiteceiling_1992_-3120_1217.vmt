@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ARCHIVETAR/BR_WHITECEILING.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_br_pitfalls_async/c1992_-3120_1217"
+	}
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/xenonuke/archivetar/cisternlight"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/xenonuke/archivetar/cisternlight_envmap"
+	"$selfillum" 1
+	"$selfillummask" "models/xenonuke/archivetar/cisternlight_illum"
+}

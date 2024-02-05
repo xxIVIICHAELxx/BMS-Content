@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+       
+{
+        "$baseTexture" "maps/metal/metalfence012"
+        "$alphatest" 1
+	"$alphatestreference"	".22"
+	"$nocull"	1
+        "$surfaceprop" "metal"
+	"%keywords" "ins2,fence"
+		"%compilepassbullets"	1
+}
